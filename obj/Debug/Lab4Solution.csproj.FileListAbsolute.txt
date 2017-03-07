@@ -1,0 +1,6 @@
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.exe.config
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.csprojResolveAssemblyReference.cache
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.exe
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.pdb
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.exe
+F:\Algonquin\14W\CST8253\Week 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.pdb

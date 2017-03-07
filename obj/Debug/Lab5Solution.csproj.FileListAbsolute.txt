@@ -1,0 +1,30 @@
+G:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.csprojResolveAssemblyReference.cache
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.pdb
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.exe
+F:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.pdb
+E:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+E:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.exe
+E:\Algonquin\14W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.pdb
+\\cirrus-share\shared\gongw\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+\\cirrus-share\shared\gongw\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.exe
+\\cirrus-share\shared\gongw\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.pdb
+\\cirrus-share\shared\gongw\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe
+\\cirrus-share\shared\gongw\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.pdb
+F:\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+F:\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.exe
+F:\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.pdb
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.exe
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\obj\Debug\Lab5Solution.pdb
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.exe
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final\Lab5Solution\bin\Debug\Lab5Solution.pdb
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final - Copy\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final - Copy\Lab5Solution\obj\Debug\Lab5Solution.exe
+C:\Algonquin\16W\CST8253\Week 6\Lab5Solution - Final - Copy\Lab5Solution\obj\Debug\Lab5Solution.pdb
+C:\Users\775pg\Dropbox\Algonquin Stuff\Level 2\CST8253\Lab 5\Lab5Solution\Lab5Solution\bin\Debug\Lab5Solution.exe.config
+C:\Users\775pg\Dropbox\Algonquin Stuff\Level 2\CST8253\Lab 5\Lab5Solution\Lab5Solution\obj\Debug\Lab5Solution.exe
+C:\Users\775pg\Dropbox\Algonquin Stuff\Level 2\CST8253\Lab 5\Lab5Solution\Lab5Solution\obj\Debug\Lab5Solution.pdb
+C:\Users\775pg\Dropbox\Algonquin Stuff\Level 2\CST8253\Lab 5\Lab5Solution\Lab5Solution\obj\Debug\Lab5Solution.csprojResolveAssemblyReference.cache
